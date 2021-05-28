@@ -1,6 +1,6 @@
 body 
 { 
-  background: #ce4a4a;
+  background: #ce4a4a; 
 } 
 .login_div1 , .login_div2 
 { 
@@ -10,9 +10,9 @@ body
   border-radius: 15px; 
 } 
 #player1_name , #player2_name 
-{ 
-  display: inline-block; 
-  margin-left: 20px; 
+{
+   display: inline-block; 
+   margin-left: 20px; 
 } 
 #word 
 { 
@@ -30,8 +30,4 @@ body
   padding: 10px; 
   float: none; 
   text-align: left; 
-}
-button
-{
-background-color: aqua;
 }
